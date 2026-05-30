@@ -1,4 +1,3 @@
-setup:
 	# install brew dependencies
 	brew bundle --verbose
 
