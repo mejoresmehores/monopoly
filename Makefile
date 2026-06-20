@@ -1,4 +1,3 @@
-	# install brew dependencies
 	brew bundle --verbose
 
 	# install uv dependencies
