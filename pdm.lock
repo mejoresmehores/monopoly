@@ -1,4 +1,3 @@
-groups = ["default", "dev", "ocr"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
 content_hash = "sha256:84454fa6af142901767666006df5cb450598f83926a5df0b349d0c1bacbe2b8c"
