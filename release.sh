@@ -1,4 +1,3 @@
-
 git pull
 
 if [ -z "$1" ]; then
